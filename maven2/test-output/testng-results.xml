@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-28T07:08:27 CDT" name="Default suite" finished-at="2020-07-28T07:08:30 CDT" duration-ms="2570">
+    <groups>
+    </groups>
+    <test started-at="2020-07-28T07:08:27 CDT" name="Default test" finished-at="2020-07-28T07:08:30 CDT" duration-ms="2570">
+      <class name="maven2.test2">
+        <test-method signature="Test1()[pri:0, instance:maven2.test2@27c86f2d]" started-at="2020-07-28T07:08:27 CDT" name="Test1" finished-at="2020-07-28T07:08:30 CDT" duration-ms="2515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- maven2.test2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
